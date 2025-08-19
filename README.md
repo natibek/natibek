@@ -5,7 +5,8 @@ My most popular project is [Erys](https://github.com/natibek/erys).
 [Portfolio](https://natibek.me/)
 
 ### Overview
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natibek&layout=compact&theme=radical)
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natibek&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=natibek&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=py,rust,c,cpp,js,bash,css,html,r)](https://skillicons.dev)
