@@ -1,6 +1,6 @@
 [Portfolio 🔗](https://natibek.me/)
 
-I enjoy working on library development, terminal tools, testing utilities, system software, and web apps. I like getting involved in open source projects. I am interested in software architecture and HPC topics. I am currently interested in computer graphics. Reach out on [LinkedIn](https://linkedin/in/nati-bekele) if you have cool projects/opportunities.
+I enjoy working on library development, terminal tools, testing utilities, system software, and web apps. I like getting involved in open source projects. I am interested in software architecture and HPC topics. I am currently interested in computer graphics. Reach out on [LinkedIn](https://www.linkedin.com/in/nati-bekele) if you have cool projects/opportunities.
 
 My most popular project is **eyrs**.
 
