@@ -1,6 +1,6 @@
 [Portfolio 🔗](https://natibek.me/)
 
-I enjoy working on library development, terminal tools, testing utilities, system software, and web apps. I like getting involved in open source projects. I am interested in software architecture and HPC topics. Reach out on [LinkedIn](https://linkedin/in/nati-bekele) if you cool projects/opportunities.
+I enjoy working on library development, terminal tools, testing utilities, system software, and web apps. I like getting involved in open source projects. I am interested in software architecture and HPC topics. I am currently interested in computer graphics. Reach out on [LinkedIn](https://linkedin/in/nati-bekele) if you have cool projects/opportunities.
 
 My most popular project is **eyrs**.
 
@@ -8,7 +8,7 @@ My most popular project is **eyrs**.
 
 
 ### Overview
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=natibek&theme=radical&count_private=false&hide_border=true&line_height=20&rank_icon=github)</a>
+<!-- <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=natibek&theme=radical&count_private=false&hide_border=true&line_height=20&rank_icon=github)</a>-->
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natibek&layout=compact&hide_progress=true&theme=radical&exclude_repo=Boston_Crime_Analysis,thesis&count_private=true&hide_border=true)</a>
 
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=natibek) -->
